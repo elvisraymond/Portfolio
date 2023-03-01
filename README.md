@@ -1,2 +1,3 @@
 # MyPortfolioWebsite
- My Portfolio Website
+
+My Portfolio Website, coded with HTML, CSS and JavaScript
