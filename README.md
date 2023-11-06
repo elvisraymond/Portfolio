@@ -1,3 +1,5 @@
 # MyPortfolioWebsite
 
-My Portfolio Website, coded with HTML, CSS and JavaScript
+This is my Portfolio Website, coded with HTML, CSS and JavaScript 
+
+Elvis Ray.
